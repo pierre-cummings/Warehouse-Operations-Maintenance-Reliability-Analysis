@@ -25,15 +25,13 @@ Built a warehouse maintenance and reliability analysis project using Power BI an
 ## Dashboard Preview
 
 ### Executive Overview
-<img width="3840" height="1080" alt="Executive Overview" src="https://github.com/user-attachments/assets/267a1755-887e-42aa-b55c-623784120bc2" />
-
+<img width="1920" height="1048" alt="Executive Overview" src="https://github.com/user-attachments/assets/18d20088-f4db-47d6-91f1-80c59d73c598" />
 
 ### Reliability Analysis
-<img width="3840" height="1080" alt="Reliability Analysis" src="https://github.com/user-attachments/assets/d1a18522-d62f-4847-b820-791d1c8391da" />
-
+<img width="1918" height="1047" alt="Reliability Analysis" src="https://github.com/user-attachments/assets/35b9d076-dd58-4e38-b70c-e125ec0665d9" />
 
 ### Vendor vs In-House Performance
-<img width="3840" height="1080" alt="Vendor vs In-House Performance" src="https://github.com/user-attachments/assets/21a1e0dd-be22-4780-98ed-4d1b2b78dfe1" />
+<img width="1920" height="1048" alt="Vendor vs In-House Performance" src="https://github.com/user-attachments/assets/04bb410f-5bf4-498d-99d5-0e78fb75eb29" />
 
 
 ## SQL Analysis Preview
