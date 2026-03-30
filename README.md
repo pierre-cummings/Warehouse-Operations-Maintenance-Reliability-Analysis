@@ -68,6 +68,7 @@ Built a warehouse maintenance and reliability analysis project using Power BI an
 
 
 ## Repository Contents
+- `dashboard/` powerbi dashboard and dashboard notes
 - `data/` dataset used for analysis
 - `images/` dashboard and SQL screenshots
 - `insights/` written findings and business takeaways
