@@ -66,9 +66,11 @@ This may indicate:
 
 ---
 
-## 4. Safety-Related Issues Are Concentrated in Specific Equipment
+## 4. Safety-Related Issues Identified Through SQL Analysis
 
-Safety-affected issues are more commonly associated with:
+Safety-affected issues were analyzed using SQL queries rather than being fully visualized in the dashboard.
+
+These issues are more commonly associated with:
 - forklifts
 - pallet jacks and rider pallet jacks
 - pallet rack systems
@@ -79,21 +81,21 @@ Safety-affected issues are more commonly associated with:
 - potential compliance and liability concerns
 
 ### Recommendation
-- increase inspection frequency for safety-critical equipment
-- reinforce operator training
-- track repeat safety-related issues more closely
+- track safety-related events separately from general maintenance
+- increase inspection focus on safety-critical equipment
+- consider adding a dedicated safety dashboard view in future iterations
 
 ---
 
-## 5. Operations-Affected Issues Highlight Critical Equipment
+## 5. Operations-Impacted Issues Identified Through SQL Analysis
 
-Issues marked as operations-affected are most commonly tied to:
+Operations-affected issues were also analyzed through SQL queries to understand which equipment most impacts workflow.
+
+Common contributors include:
 - conveyors
 - case erectors
 - tape machines
 - sortation systems
-
-These systems directly support workflow movement.
 
 ### Impact
 - delays in shipping and receiving
@@ -101,9 +103,9 @@ These systems directly support workflow movement.
 - reduced throughput
 
 ### Recommendation
-- prioritize these systems for preventive maintenance
+- prioritize operations-critical equipment for preventive maintenance
 - ensure spare parts availability
-- reduce repair response time
+- consider expanding this analysis into a dedicated dashboard page
 
 ---
 
@@ -127,10 +129,13 @@ Analyzing repair activity by provider shows:
 
 ## Summary
 
-This analysis shows how maintenance data can be used to:
+This analysis demonstrates how maintenance data can be used to:
 - identify downtime drivers
-- reduce operational disruption
-- improve repair strategy
+- evaluate repair cost and downtime performance
+- compare repair ownership strategies
+- highlight safety and operational risk areas through SQL analysis
+
+Future improvements could include expanding safety and operations impact analysis into dashboard visualizations.
 - support preventive maintenance planning
 - enhance safety oversight
 
